@@ -40,9 +40,9 @@ class Program
     }
     static void Main()
     {
-        int[] population = new int[3] {1, 1, 1};
+        int[] population = new int[3] {8, 1, 9};
         
-        int target = 0;
+        int target = 1;
 
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
